@@ -8,7 +8,7 @@ function Projects() {
   const links = {
     html: ["tuoitrevn24h.ga"],
     js: ["vietkhanhvn.ddns.net"],
-    PHP: [""],
+    PHP: ["khanhdev.ddns.net"],
   };
   const [modal, setModal] = useState(false);
   const [link, setLink] = useState();
